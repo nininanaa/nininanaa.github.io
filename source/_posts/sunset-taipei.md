@@ -4,4 +4,4 @@ date: 2018-09-03 02:26:20
 tags: ["taipei", "sunset"]
 ---
 
-{% asset_img "taipei.jpg" %}
+![](/images/taipei.jpg)
