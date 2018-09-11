@@ -18,6 +18,9 @@ tags: ["tax", "netherlands","work","overseas","稅","荷蘭","海外工作","高
 
 ![](/images/TaxInNetherlands2018.png)
 
+[上圖稅率表是從這裡來](https://www.expatax.nl/tax-rates-2018)
+
+
 什麼是"30 percent ruling"呢？
 
 簡單來說是荷蘭政府為吸引優秀海外人才來本地創造產值而推出的優惠稅法方案。（不然我想 40.85% 的高稅率應該會是很多人的阻力）
@@ -34,5 +37,7 @@ Tricky的地方就在：要怎麼樣才能被認定為“高技術人員呢”�
 若你低於30歲，且擁有碩士學歷，你的薪資須達到年所得 40500歐元以上
 
 如果你像我一樣低於30歲，也**沒有**碩士學歷，你的薪資也須達53280歐元以上才能適用"30% percent ruling"
+
+[覺得稅很難算 點我點我](https://thetax.nl/?year=2018&startFrom=Year&salary=47959&allowance=0&socialSecurity=1&retired=0&ruling=0&rulingChoice=normal)
 
 因為這個稅率實在太高了，算了算房租 生活費，在荷蘭工作生活實在也不是輕鬆的事情，妮妮還在苦惱呢～
