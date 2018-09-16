@@ -6,3 +6,6 @@ share: false
 ---
 
 ![](/images/AboutNininanaa.jpg)
+
+嗨
+我是妮妮～
