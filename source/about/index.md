@@ -5,4 +5,4 @@ comment: false
 share: false
 ---
 
-![](/images/AboutNininanaa.png)
+![](/images/AboutNininanaa.jpg)
