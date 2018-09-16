@@ -54,8 +54,7 @@ categories: [life]
 
 果不及然，妮妮算了算以後覺得很不理想，應該是說他是一份not attractive 的 offer。主要原因有二，一是荷蘭稅率太高，二是房租。
 
-大家可以參考妮妮前一篇文章
-{% post_link Tax-in-Netherlands-text %}
+大家可以參考妮妮前一篇文章 {% post_link Tax-in-Netherlands Tax in Netherlands %}
 
 
 妮妮目前住家裡，不用負擔房租。而在荷蘭不只要負擔房租，聽說一個人住的房子就要約莫三萬五台幣（不小心又抖起來惹(抖)）
