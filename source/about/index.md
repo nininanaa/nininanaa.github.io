@@ -5,7 +5,7 @@ comment: false
 share: false
 ---
 
-![](/images/AboutNininanaa.jpg)
+<img src="/images/AboutNininanaa.jpg" width="35%" />
 
 嗨
 我是妮妮～
