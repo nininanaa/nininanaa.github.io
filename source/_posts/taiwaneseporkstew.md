@@ -15,6 +15,7 @@ categories: [Food]
 
 
 ![](https://nininanaa.me/images/pork-stew.jpg)
+<!--more-->
 
 
 
