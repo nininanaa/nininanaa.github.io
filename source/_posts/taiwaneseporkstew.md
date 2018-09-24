@@ -11,7 +11,7 @@ categories: [food]
 
 因為步驟簡單，備材方便，家常滷味就成了打球日最常出現在妮妮餐桌上的一道菜！
 
-![](https://nininanaa.me/images/pork-stew-revised.jpg)
+![](https://nininanaa.me/images/pork-stew-revised2.jpg)
 <!--more-->
 
 ## 準備材料：
