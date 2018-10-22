@@ -5,7 +5,7 @@ tags: [墨魚, 花枝, "義大利麵", "中卷", "墨魚汁", "海鮮", "九層�
 categories: [food]
 ---
 
-![](https://nininanaa.me/images/squid-speghetti.jpg)
+![](https://nininanaa.me/images/squid-speghetti2.jpg)
 
 噠啦啦～ 歡迎大家來到妮妮的料理教學時間！
 
