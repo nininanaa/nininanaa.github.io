@@ -1,7 +1,7 @@
 ---
-title: [妮妮小廚娘]墨魚海鮮義大利麵
+title: "[妮妮小廚娘]墨魚海鮮義大利麵"
 date: 2018-10-23 02:06:20
-tags: [墨魚, 花枝, "義大利麵", "中卷", "墨魚汁", "海鮮", "九層塔", "speghetti", "squid", "seafood", "cuisine", "italien"]
+tags: [墨魚, 花枝, 義大利麵, 中卷, 墨魚汁, 海鮮, 九層塔, speghetti, squid, seafood, cuisine, italien]
 categories: [food]
 ---
 
