@@ -85,3 +85,6 @@ deploy:
 
 sitemap:
     path: sitemap.xml
+
+theme_config:
+  open_graph:
