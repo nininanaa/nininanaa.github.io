@@ -9,3 +9,9 @@ share: false
 
 嗨
 我是妮妮～
+
+- 26 y old 
+- Had been to 29 foreign countries
+- Had went on a 82-day trip around Europe 
+- Had studied in France for a year 
+- Now works in Netherland
