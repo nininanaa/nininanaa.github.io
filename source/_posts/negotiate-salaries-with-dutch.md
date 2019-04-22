@@ -1,5 +1,5 @@
 ---
-title: "[妮德蘭] 荷蘭工作內轉offer流程"
+title: [妮德蘭] 荷蘭工作內轉offer流程
 date: 2018-09-16 23:16:20
 tags: ["salaries", "Netherlands", "荷蘭", "外商", "談薪水", "薪水", "談判", "Package", "人資", "談判技巧", "外派", "expat", "總部", "HQ"]
 categories: [life]
