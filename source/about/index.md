@@ -7,8 +7,6 @@ share: false
 
 <img src="/images/AboutNininanaa.jpg" width="35%" />
 
-嗨
-我是妮妮～
 
 - 26 y old 
 - Had been to 29 foreign countries
