@@ -2,7 +2,7 @@
 title: "[妮德蘭] 為甚麼喜歡荷蘭的生活?"
 date: 2019-04-22 18:00:00
 tags: ["荷蘭", "荷蘭生活", "語言", "netherlands", "Dutch", "Life", "DutchLife", "NL", "workinNetherlands", "lifeinNetherlands", "Taiwanese", "expat", "TaiwaneseinNetherlands"]
-categories: [life]
+categories: [netherlands]
 ---
 
 來荷蘭工作約兩個月了

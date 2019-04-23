@@ -2,6 +2,7 @@
 title: "[妮德蘭] Tax in Netherlands"
 date: 2018-09-10 02:26:20
 tags: ["tax", "netherlands","work","overseas","稅","荷蘭","海外工作","高技術移民"]
+categories: [netherlands]
 ---
 
 ![](/images/庫肯霍夫花園.jpg)
