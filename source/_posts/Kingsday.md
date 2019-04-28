@@ -20,7 +20,7 @@ categories: [netherlands]
 
 國王節是怎麼來的呢?
 
-![](/images/court.jpg)
+![](/images/kingsdayAmsterdam.jpg)
 
 {% post_link post-name custom-text %}
 
