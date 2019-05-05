@@ -9,7 +9,7 @@ categories: [netherlands]
 荷蘭在非英語係國家中，全世界英文程度排名世界第二！
 其中奧秘究竟是什麼呢？
 在教授荷蘭文的荷蘭文老師眼中，荷蘭文的定位是什麼呢？
-![](/images/dutch.jpg)
+![](/images/dutch.JPG)
 
 
 
