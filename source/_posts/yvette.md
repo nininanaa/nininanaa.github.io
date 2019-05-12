@@ -11,7 +11,7 @@ categories: [netherlands]
 妮妮公司的櫃台是位有著白皮膚、棕色長頭髮的女生，且稱她為松鼠姐姐了。
 
 這天松鼠姐姐把經過她座位的妮妮給叫住，興奮的說道:
-![](/images/yvette.JPG)
+![](/images/yvette.jpg)
 
 
 
