@@ -19,7 +19,7 @@ categories: [netherlands]
 從荷蘭人的眼中，看台灣同性婚姻合法是甚麼樣子的呢?
 
 :
-![](/images/yvette.jpg)
+![](/images/nnnnaa.jpg)
 
 
 
