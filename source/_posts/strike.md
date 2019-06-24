@@ -1,10 +1,9 @@
 ---
 title: "[妮德蘭] 妮妮小日記#3_不會荷蘭文會怎麼樣?"
-date: 2019-06-24 21:00:20
-tags: ["荷蘭", "荷蘭生活", "Dutch","荷蘭人","DutchPeople", "netherlands", "NL", "workinNetherlands", "lifeinNetherlands"]
+date: 2019-06-24 21:06:20
+tags: ["荷蘭", "荷蘭生活", "Kingsday","國王節","荷蘭國王節","King'sday", "netherlands", "Dutch", "Life", "DutchLife", "NL", "workinNetherlands", "lifeinNetherlands"]
 categories: [netherlands]
 ---
-
 妮妮平日騎腳踏車上班。但一天，妮妮的腳踏車壞了，改搭大眾交通運輸工具。在公車站牌等了許久，電子版上持續寫著五分鐘後將進站，卻不見公車進來。後來妮妮走到火車站想改搭火車，火車上一個人也沒有。
 
 
