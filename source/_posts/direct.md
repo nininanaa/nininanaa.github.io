@@ -4,7 +4,7 @@ date: 2019-07-01 21:06:20
 tags: ["荷蘭", "荷蘭生活", "netherlands", "Dutch", "Life", "DutchLife", "NL", "workinNetherlands", "lifeinNetherlands"]
 categories: [netherlands]
 ---
-妮妮遇到大多數的荷蘭人是友善的。但再怎麼樣，畢竟是外國，還是會遇到文化差異。荷蘭人有個她們自己也很引以為豪的特質，就是『直接』，但妮妮有時候很不能理解他們『直接的幽默』。
+妮妮遇到大多數的荷蘭人是友善的。但再怎麼樣畢竟是外國，還是會遇到文化差異。荷蘭人有個他們自己很引以為豪的特質，就是『直接』，但妮妮有時候很不能理解他們『直接的幽默』。
 
 ![](/images/direct.jpg) 
 
