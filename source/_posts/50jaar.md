@@ -16,7 +16,7 @@ categories: [netherlands]
 
 
 
-![](/images/50jaar.jpg)
+![](/images/50jaar.JPG)
 
 
 
