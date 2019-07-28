@@ -16,7 +16,7 @@ categories: [netherlands]
 
 
 
-![](/images/pedicure.jpg) 
+![](/images/pedicure.JPG) 
 
 
 <!--more-->
