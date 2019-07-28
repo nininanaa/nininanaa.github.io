@@ -39,7 +39,7 @@ categories: [netherlands]
 
 
 
-妮妮在坐上椅子後，阿姨開始幫妮妮在洗腳池裡放熱水。解釋道：『I know it's hot, but your feet needs warm water』(現在歐洲熱浪來襲，老闆娘現在都給客人用較涼快的水洗腳)
+妮妮在坐上椅子後，老闆娘邊幫妮妮在洗腳池裡放熱水，邊解釋道：『I know it's hot, but your feet needs warm water』(現在歐洲熱浪來襲，老闆娘都給客人用較涼快的冷水洗腳)
 
 
 
