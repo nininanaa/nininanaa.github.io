@@ -11,7 +11,7 @@ categories: [netherlands]
 他興奮地和我說：「這趟旅行，我跟我太太最滿意的就是迪士尼樂園，真是謝謝你！」
 
 
-![](/images/.jpg) 
+![](/images/weddinggirft.jpg) 
 
 
 
