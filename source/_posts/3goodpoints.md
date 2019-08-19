@@ -4,7 +4,7 @@ date: 2019-08-19 06:06:20
 tags: ["荷蘭", "荷蘭生活", "Dutch Wedding", "荷蘭習俗", "DutchCulture", "netherlands", "Dutch", "Life", "DutchLife", "NL", "workinNetherlands", "lifeinNetherlands"]
 categories: [netherlands]
 ---
-今年的二月中，妮妮踏上荷蘭這個國家。
+來荷蘭滿半年了
 
 
 半年說長不長說短不短，今天就來講講 **荷蘭工作環境中** 的三個妮妮喜歡的地方。
