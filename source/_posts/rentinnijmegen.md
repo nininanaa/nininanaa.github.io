@@ -18,7 +18,7 @@ categories: [netherlands]
 
 （看文章連結前，先按個讚，讓妮妮更有動力寫下去吧！）
 
-![](/images/3goodpoints.jpg) 
+![](/images/rents.jpg) 
 
 <!--more-->
 
