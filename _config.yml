@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.nininanaa.me
+url: https://nininanaa.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -43,16 +43,16 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ''
+  path: ""
   per_page: 10
   order_by: -date
-  
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -81,10 +81,10 @@ deploy:
   type: git
   repo: https://github.com/nininanaa/nininanaa.github.io.git
   branch: master
-  message: 
+  message:
 
 sitemap:
-    path: sitemap.xml
+  path: sitemap.xml
 
 theme_config:
   open_graph:
